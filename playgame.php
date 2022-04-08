@@ -22,7 +22,7 @@
               <th><a href="lose.php"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/1920px-YouTube_social_white_circle_%282017%29.svg.png" width="200" height="200"></a></th>
               <th><a href="win.php"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/1920px-YouTube_social_white_circle_%282017%29.svg.png" width="200" height="200"></a></th>
               <th><a href="win.php"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/1920px-YouTube_social_white_circle_%282017%29.svg.png" width="200" height="200"></a></th>
-            </tr>>
+            </tr>
                 <?php
                 for ( $i=0 ; $i<2 ; $i++){
                     if ($i= 1){
